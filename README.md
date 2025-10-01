@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:2cb6f6&height=220&section=header&text=Hey%2C%20I'm%20Amir&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Arch%20Linux%20user%20%7C%20Full-stack%20craftsman&descAlign=50&descAlignY=60" alt="Amir header" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Awesome-README-Templates/main/Assets/Gif/aurora.gif" alt="Aurora gradient animation" style="width:100%; max-width:960px; border-radius:28px;" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=7F5AF0&center=true&vCenter=true&width=600&lines=I+use+Arch%2C+btw.;Flutter+%2B+FastAPI+%2B+React+in+flow.;Restless+about+every+other+stack+too." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1400&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amir.;I+use+Arch%2C+btw.;Flutter+%2B+FastAPI+%2B+React+in+flow.;Forever+curious+about+every+stack." alt="Typing intro" />
 </p>
 
 <p align="center" style="max-width:760px; margin: 0 auto; font-family:'Inter',sans-serif; color:#94a1b2; font-size:1.05rem; line-height:1.8;">
   I'm a product-minded engineer who keeps the pipeline elegant and the interface delightful. Whether I'm animating Flutter
   micro-interactions, crafting resilient FastAPI services, or steering React-driven systems, I care about the whole experience—
   from architecture to polish.
+</p>
+
+<p align="center" style="margin-top: 12px;">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux badge" />
 </p>
 
 <br />
@@ -84,7 +88,3 @@
   </p>
   <em style="color:#7f5af0;">"Code is just creative energy in motion." — Amir</em>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cb6f6,100:7f5af0&height=120&section=footer" alt="footer" />
-</p>

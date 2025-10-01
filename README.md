@@ -16,11 +16,6 @@
   micro-interactions, crafting resilient FastAPI services, or steering React-driven systems, I care about the whole experience—
   from architecture to polish.
 </p>
-
-<p align="center" style="margin-top: 12px;">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux badge" />
-</p>
-
 <br />
 
 <div align="center" style="display:grid; gap:16px; max-width:860px; margin:0 auto;">

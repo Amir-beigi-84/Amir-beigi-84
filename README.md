@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="mailto:hello@amir.dev"><img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/amir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Awesome-README-Templates/main/Assets/Gif/aurora.gif" alt="Aurora gradient animation" style="width:100%; max-width:960px; border-radius:28px;" />
 </p>
 
@@ -81,10 +86,5 @@
 <br />
 
 <div align="center" style="font-family:'Inter',sans-serif; color:#94a1b2;">
-  <p style="margin-bottom:16px;">
-    <a href="mailto:hello@amir.dev"><img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/amir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/amir"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
   <em style="color:#7f5af0;">"Code is just creative energy in motion." — Amir</em>
 </div>

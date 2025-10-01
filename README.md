@@ -1,44 +1,46 @@
-<div align="center">
-  <h1 style="font-size:3.5rem; font-weight:800; margin-bottom:0;">✨ Hey, I'm <span style="color:#7f5af0;">Amir</span></h1>
-  <p style="font-size:1.2rem; color:#94a1b2; margin-top:0.5rem;">
-    Full‑stack explorer crafting experiences across every layer — currently shipping with Flutter, FastAPI & React.
+<div align="center" style="font-family:'Inter', sans-serif;">
+  <h1 style="font-size:3.25rem; font-weight:800; margin-bottom:0.25rem;">Hey, I'm <span style="color:#7f5af0;">Amir</span></h1>
+  <p style="font-size:1.15rem; color:#94a1b2; max-width:640px;">
+    Arch user, full-stack tinkerer, and fan of shipping polished ideas. These days I'm weaving Flutter experiences,
+    composing FastAPI backends, and shaping React frontends—while staying curious about every other stack I can touch.
   </p>
   <img src="https://img.shields.io/badge/arch%20btw-0f172a?style=for-the-badge&logo=archlinux&logoColor=7dd3fc" alt="Arch BTW" />
 </div>
 
----
+<br />
 
-## 🌈 Tech Palette
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=amir&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=ccd6f6&icon_color=7f5af0" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir&layout=compact&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=ccd6f6" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=amir&theme=dark&hide_border=true&background=0D1117&ring=7f5af0&fire=7f5af0&currStreakLabel=ffffff" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Layer | Favourites | Vibe |
-| :--- | :--- | :--- |
-| Mobile Magic | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> | Smooth animations & pixel-perfect UIs |
-| Web Canvas | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> | Component-driven storytelling |
-| API Wizardry | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> | Fast, clean, async-first backends |
-| ...and beyond | Every stack I can get my hands on | Infinite curiosity ✨ |
+<br />
 
----
+<div align="center" style="max-width:780px; font-size:1.05rem; color:#94a1b2; line-height:1.65;">
+  <p>
+    I obsess over meaningful UX flows, resilient API design, and the craft of developer experience. Whether it's pairing Flutter animations
+    with real-time FastAPI services or iterating on React-driven design systems, I'm chasing work that feels cohesive, thoughtful, and fun.
+  </p>
+  <p>
+    Beyond shipping features, I'm steadily documenting patterns, refining tooling, and learning from every stack I encounter. If there's a way
+    to make the build pipeline smoother or the interface kinder, I'm there for it.
+  </p>
+</div>
 
-## 🧭 Current Focus
-
-- 🎯 Building hybrid apps that feel native everywhere.
-- ⚡️ Experimenting with real-time experiences & delightful micro-interactions.
-- 🛠️ Designing APIs that feel like products.
-- 🧪 Constantly iterating on developer experience — because great DX powers great UX.
-
----
-
-## 📌 Featured Highlights
-
-> A snapshot of things that make me excited to open the editor.
-
-- **Flow-first architecture** – Orchestrating frontends with state machines for clarity and resilience.
-- **Design systems nerd** – Crafting reusable component libraries, accessible color palettes, and motion guides.
-- **Cloud-native mindset** – Deploying with confidence using containerized, automated pipelines.
-
----
-
-## ☕ Let's Connect
+<br />
 
 <div align="center">
   <a href="mailto:hello@amir.dev"><img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -46,6 +48,8 @@
   <a href="https://github.com/amir"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
----
+<br />
 
-<sub align="center">“Code is just creative energy in motion.” — Amir</sub>
+<div align="center" style="font-size:0.9rem; color:#7f5af0;">
+  <em>"Code is just creative energy in motion." — Amir</em>
+</div>

@@ -83,14 +83,3 @@
 <div align="center" style="font-family:'Inter',sans-serif; color:#94a1b2;">
   <em style="color:#7f5af0;">"Code is just creative energy in motion." — Amir</em>
 </div>
-
-
-## Flutter Clean Architecture command
-
-Run the reusable setup script to scaffold a Clean Architecture-ready structure (data, domain, presentation) in any Flutter project:
-
-```bash
-./tools/flutter_clean_architecture.sh
-```
-
-Use `--force` to regenerate template files if you want to overwrite existing ones. The script creates placeholder implementations plus a quickstart README in `lib/src/README.clean_architecture.md` that documents the layout.

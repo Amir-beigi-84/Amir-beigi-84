@@ -1,85 +1,66 @@
+<!-- TITLE & CONTACT BADGES -->
 <p align="center">
-  <a href="mailto:amirbeigicontact@gmail.com"><img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/amir-beigi-code/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2700&pause=1600&color=7F5AF0&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Amir.;I+use+Arch%2C+btw.;Flutter%2C+FastAPI%2C+React%2C+curiosity+%26+craft." alt="Typing intro" />
+  <br />
+  <a href="mailto:amirbeigicontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/amir-beigi-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
+<!-- BANNER OR GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Awesome-README-Templates/main/Assets/Gif/aurora.gif" alt="Aurora gradient animation" style="width:100%; max-width:960px; border-radius:28px;" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Awesome-README-Templates/main/Assets/Gif/aurora.gif" alt="Aurora gradient animation" style="width:90%; max-width:880px; border-radius:28px;" />
 </p>
 
+<!-- ABOUT / INTRO -->
+<p align="center" style="max-width:600px; margin: 0 auto; color:#94a1b2;">
+  Engineer blending bold UX, elegant systems, & product-minded curiosity.<br/>
+  Flutter, FastAPI, and React—each for a reason, always evolving.<br />
+  <br />
+  <em style="color:#7f5af0;">"Code is just creative energy in motion."</em>
+</p>
+
+<!-- STATS & LANGUAGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3800&pause=1400&color=7F5AF0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amir.;I+use+Arch%2C+btw.;Flutter+%2B+FastAPI+%2B+React+in+flow.;Forever+curious+about+every+stack." alt="Typing intro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&hide_border=true&bg_color=181825f7&title_color=7f5af0&text_color=ccd6f6&icon_color=2cb6f6" style="border-radius:16px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-beigi-84&layout=compact&hide_border=true&bg_color=181825f7&title_color=7f5af0&text_color=ccd6f6" style="border-radius:16px;" />
 </p>
 
-<p align="center" style="max-width:760px; margin: 0 auto; font-family:'Inter',sans-serif; color:#94a1b2; font-size:1.05rem; line-height:1.8;">
-  I'm a product-minded engineer who keeps the pipeline elegant and the interface delightful. Whether I'm animating Flutter
-  micro-interactions, crafting resilient FastAPI services, or steering React-driven systems, I care about the whole experience—
-  from architecture to polish.
-</p>
-<br />
-
-<div align="center" style="display:grid; gap:16px; max-width:860px; margin:0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=ccd6f6&icon_color=2cb6f6" alt="GitHub stats" style="border-radius:18px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-beigi-84&layout=compact&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=ccd6f6" alt="Top languages" style="border-radius:18px;" />
-</div>
-
-<br />
-
-<div align="center" style="max-width:860px; margin:0 auto; display:grid; gap:20px; font-family:'Inter',sans-serif;">
-  <div style="background:linear-gradient(135deg,rgba(127,90,240,0.16),rgba(44,182,246,0.12)); padding:26px 28px; border-radius:18px; border:1px solid rgba(148,161,178,0.15); backdrop-filter:blur(18px);">
-    <h3 style="margin:0 0 14px; color:#f8f9ff; font-size:1.4rem;">Stacks in heavy rotation</h3>
-    <p style="margin:0; color:#94a1b2; line-height:1.7;">
-      Flutter for buttery motion and native feel, FastAPI for confident, type-hinted services, React for immersive web apps.
-      I'm still sampling every stack I can get my hands on, but these three are on repeat right now.
-    </p>
-    <p style="margin:16px 0 0;">
-      <img src="https://skillicons.dev/icons?i=flutter,fastapi,react,ts,python,dart" alt="Tech icons" />
-    </p>
-  </div>
-
-  <div style="display:grid; gap:16px;">
-    <div style="background:rgba(13,17,23,0.8); padding:22px 24px; border-radius:16px; border:1px solid rgba(148,161,178,0.14);">
-      <h4 style="margin:0 0 10px; color:#f8f9ff; font-size:1.1rem;">Current build energy</h4>
-      <ul style="margin:0; padding-left:18px; color:#94a1b2; line-height:1.7;">
-        <li>Crafting design systems that sync Flutter motion with React experiences.</li>
-        <li>Scaling FastAPI gateways with thoughtful observability and testing.</li>
-        <li>Designing developer tooling that keeps cross-stack velocity smooth.</li>
-      </ul>
-    </div>
-    <div style="background:rgba(13,17,23,0.8); padding:22px 24px; border-radius:16px; border:1px solid rgba(148,161,178,0.14);">
-      <h4 style="margin:0 0 10px; color:#f8f9ff; font-size:1.1rem;">Always experimenting with</h4>
-      <ul style="margin:0; padding-left:18px; color:#94a1b2; line-height:1.7;">
-        <li>UI prototyping flows that layer storytelling on top of live data.</li>
-        <li>Edge-ready architectures that feel instant everywhere.</li>
-        <li>Developer experience rituals that keep teams shipping joyfully.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-<br />
-
-<div align="center" style="max-width:860px; margin:0 auto; font-family:'Inter',sans-serif; color:#94a1b2; line-height:1.7;">
-  <p>
-    My workflow is equal parts curiosity and craft: a sprinkle of system design, a dash of visual storytelling, and a lot of time spent polishing the small moments that make products memorable. If there's an opportunity to merge delightful UX with serious engineering rigor, I'm in.
-  </p>
-</div>
-
-<br />
-
-<div align="center" style="display:grid; gap:18px; max-width:860px; margin:0 auto;">
-  <img src="https://streak-stats.demolab.com?user=Amir-beigi-84&theme=transparent&hide_border=true&dates=94a1b2&ring=7f5af0&fire=2cb6f6&currStreakLabel=f8f9ff" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&bg_color=0d1117&color=7f5af0&line=2cb6f6&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</div>
-
-<br />
-
+<!-- SKILLS SECTION -->
+<h3 align="center">Core Tech & Stacks</h3>
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://skillicons.dev/icons?i=flutter,fastapi,react,ts,python,dart,linux,git,figma" />
 </p>
 
-<br />
+<!-- FOCUS / CURRENTLY WORKING ON -->
+<h4 align="center">Current Focus</h4>
+<ul style="max-width:760px; margin:0 auto; color:#94a1b2; line-height:1.7;">
+  <li>Orchestrating design systems with Flutter motion + React synergy.</li>
+  <li>Scaling FastAPI gateways, full-stack visibility & intelligent testing.</li>
+  <li>Prototyping developer tools for joyful multi-stack velocity.</li>
+</ul>
 
-<div align="center" style="font-family:'Inter',sans-serif; color:#94a1b2;">
-  <em style="color:#7f5af0;">"Code is just creative energy in motion." — Amir</em>
-</div>
+<h4 align="center">🔬 Always Experimenting With</h4>
+<ul style="max-width:760px; margin:0 auto; color:#94a1b2; line-height:1.7;">
+  <li>Story-driven UI prototyping for live-data experiences.</li>
+  <li>Edge-architecture that feels instant everywhere.</li>
+  <li>Dev rituals that keep teams shipping delightfully.</li>
+</ul>
+
+<!-- CONTRIBUTION GRID SNAKE GAME -->
+<h3 align="center">Contribution Snake 👇</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-snake.svg">
+  </picture>
+</p>
+
+<!-- ACTIVITY VISUALS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amir-beigi-84&theme=transparent&hide_border=true&dates=94a1b2&ring=7f5af0&fire=2cb6f6&currStreakLabel=f8f9ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&bg_color=181825f7&color=7f5af0&line=2cb6f6&point=ffffff&area=true&hide_border=true" />
+</p>

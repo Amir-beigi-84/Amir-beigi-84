@@ -74,9 +74,12 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <br />
 

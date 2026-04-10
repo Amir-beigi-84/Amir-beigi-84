@@ -1,4 +1,360 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=1"/>
+```ansi
+[0;32m     ___           ___           ___           ___     
+/\  \         /\__\         /\  \         /\  \    
+   /::\  \       /::|  |       /::\  \       /::\  \   
+  /:/\:\  \     /:|:|  |      /:/\:\  \     /:/\:\  \  
+ /::\~\:\  \   /:/|:|__|__   /:/  \:\  \   /::\~\:\  \ 
+/:/\:\ \:\__\ /:/ |::::\__\ /:/__/ \:\__\ /:/\:\ \:\__\
+\/__\:\/:/  / \/__/~~/:/  / \:\  \ /:/  / \/__\:\/:/  /
+\::/  /        /:/  /   \:\  /:/  /       \::/  / 
+\/__/        /:/  /     \:\/:/  /         \/__/  
+/:/  /       \::/  /                  
+\/__/         \/__/   [0;34m@beigi[0m
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=1&pause=99999&color=3FB950&center=true&vCenter=true&width=700&lines=%5Bamir%40arch+~%5D%24+neofetch+--backend+stdout" alt="" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    OS      : Arch Linux x86_64                  [kernel 6.x.x-arch1]    ║
+║    Shell   : zsh  ──  fish fallback                                      ║
+║    WM      : Hyprland  [wayland native]                                  ║
+║    Editor  : Neovim   ──  VSCode fallback                                ║
+║    Role    : Full-Stack Software Engineer                                 ║
+║    Stack   : Django · React · Flutter                                    ║
+║    Status  : [ ██████████ ] Building in production                       ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=%5Bamir%40arch+~%5D%24+cat+%2Fetc%2Fos-release+%7C+grep+PRETTY_NAME" />
+</div>
+
+<br>
+
+bash
+[amir@arch ~]$ cat /usr/local/bin/whoami.sh
+
+zsh
+#!/bin/zsh
+# ─────────────────────────────────────────────
+#  whoami.sh — identity runtime
+# ─────────────────────────────────────────────
+
+declare -A identity=(
+  [name]="Amir Beigi"
+  [title]="Full-Stack Software Engineer"
+  [arch]="x86_64"
+  [editor]="nvim"                     # muscle memory at this point
+  [terminal]="kitty"
+  [philosophy]="ship clean, ship fast, ship maintainable"
+)
+
+declare -a stack=(
+  "Django    → resilient data-heavy backends"
+  "React.js  → reactive, performant web UIs"
+  "Flutter   → natively compiled, cross-platform"
+)
+
+for layer in "${stack[@]}"; do
+  echo "  ➜  $layer"
+done
+
+
+OUTPUT ──────────────────────────────────────────
+  ➜  Django    → resilient data-heavy backends
+  ➜  React.js  → reactive, performant web UIs
+  ➜  Flutter   → natively compiled, cross-platform
+─────────────────────────────────────────────────
+[exit 0]
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ cat /etc/engineering_philosophy.conf
+
+ini
+# ─────────────────────────────────────────────────────────────
+# /etc/engineering_philosophy.conf
+# loaded at runtime — these are not suggestions, they are rules
+# ─────────────────────────────────────────────────────────────
+
+[CORE_AXIOMS]
+latency           = non-negotiable          ; perceived speed = trust
+state             = must be predictable     ; chaos is a bug, not a feature
+architecture      = precision discipline    ; design before you type
+ui_ux             = flawless or reship      ; the user feels every mistake
+
+[BUILD_CONSTRAINTS]
+security          = day_one                 ; not an afterthought
+documentation     = part_of_the_code       ; if not written, does not exist
+abstractions      = earn_them              ; YAGNI until proven otherwise
+testing           = always                  ; untested = unshipped
+
+[PERFORMANCE_MODEL]
+; Value = Σ ( Logicᵢ × Aestheticsᵢ / Latencyᵢ ) + ∫ Maintainability(t)dt
+; Every architectural decision is evaluated against this function.
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ pacman -Q | grep -E "core|devops|db" | column -t
+
+<div align="center">
+
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PACKAGE GROUP: core-executables                                         │
+├───────────────────┬────────────────────┬────────────────────────────────┤
+│  python           │  django            │  djangorestframework            │
+│  typescript       │  react             │  next.js                        │
+│  dart             │  flutter           │  celery + redis                 │
+└───────────────────┴────────────────────┴────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PACKAGE GROUP: devops-runtime                                           │
+├───────────────────┬────────────────────┬────────────────────────────────┤
+│  linux-arch       │  docker            │  nginx                          │
+│  git              │  github-actions    │  bash / zsh                     │
+│  neovim           │  tmux              │  systemd                        │
+└───────────────────┴────────────────────┴────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  PACKAGE GROUP: databases-and-tools                                      │
+├───────────────────┬────────────────────┬────────────────────────────────┤
+│  postgresql       │  sqlite            │  redis                          │
+│  postman          │  figma             │  vscode                         │
+└───────────────────┴────────────────────┴────────────────────────────────┘
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,ts,react,nextjs,dart,flutter,postgres,redis,docker,nginx,linux,git,bash,neovim,figma&perline=8" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ htop --user=amir --sort=contributions --output=metrics
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950&border_color=30363D&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-beigi-84&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8&hide_border=false" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Amir-beigi-84&theme=dark&background=0D1117&border=30363D&dates=C9D1D9&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&sideNums=58A6FF&stroke=30363D" width="55%"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ git log --oneline --graph --decorate --all
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Amir-beigi-84/Amir-beigi-84/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ cat /opt/build_pipeline/deploy.sh
+
+bash
+#!/bin/bash
+# ─────────────────────────────────────────────
+# deploy.sh — Amir's engineering pipeline
+# ─────────────────────────────────────────────
+
+set -euo pipefail
+
+step() { echo -e "\n\033[1;34m[STEP]\033[0m $1"; }
+ok()   { echo -e "\033[1;32m[ OK ]\033[0m $1"; }
+
+step  "01 — understand requirements"
+# clarify scope · define success metrics · map constraints
+ok    "requirements locked"
+
+step  "02 — design architecture"
+# ERD → API contract → component tree → data flow
+ok    "blueprint finalized"
+
+step  "03 — write clean code"
+# typed · tested · documented · reviewed
+ok    "code quality gate passed"
+
+step  "04 — optimize performance"
+# eliminate N+1 · reduce bundle · cut latency · profile
+ok    "performance benchmarks met"
+
+step  "05 — deploy with confidence"
+# Docker → CI/CD → health checks → monitoring → rollback plan
+ok    "deployed to production"
+
+step  "06 — iterate from signal"
+# measure → learn → improve → repeat
+ok    "feedback loop active"
+
+echo -e "\n\033[1;32m[PIPELINE COMPLETE]\033[0m exit 0\n"
+
+
+OUTPUT ──────────────────────────────────────────
+[STEP] 01 — understand requirements
+[ OK ] requirements locked
+[STEP] 02 — design architecture
+[ OK ] blueprint finalized
+[STEP] 03 — write clean code
+[ OK ] code quality gate passed
+[STEP] 04 — optimize performance
+[ OK ] performance benchmarks met
+[STEP] 05 — deploy with confidence
+[ OK ] deployed to production
+[STEP] 06 — iterate from signal
+[ OK ] feedback loop active
+
+[PIPELINE COMPLETE] exit 0
+─────────────────────────────────────────────────
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ ls ~/achievements/ | trophy --render
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amir-beigi-84&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%"/>
+</div>
+
+<br>
+
+---
+
+<br>
+
+bash
+[amir@arch ~]$ cat /etc/activity_graph.log
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&bg_color=0D1117&color=58A6FF&line=3FB950&point=C9D1D9&area=true&area_color=0D2137&hide_border=false&border_color=30363D&radius=4" width="98%"/>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   [amir@arch ~]$ logout                                     │
+│                                                             │
+│   Connection closed.                                        │
+│   Broadcast message from amir@arch:                        │
+│   → pipeline optimized                                      │
+│   → state predictable                                       │
+│   → ready to deploy                                         │
+│                                                             │
+│                          [exit 0]                           │
+└─────────────────────────────────────────────────────────────┘
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=%5Bprocess+completed+with+exit+code+0%5D;%5Bsession+terminated+cleanly%5D;%5Buntil+next+commit%5D" />
+
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Amir-beigi-84&style=flat-square&color=30363D&label=SESSIONS+INITIATED&labelColor=0D1117)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2"/>
+
+
+---
+
+## Setup — Snake Workflow
+
+Add this to `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Amir-beigi-84
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f2e,100:58A6FF&height=120&section=header&animation=fadeIn"/>

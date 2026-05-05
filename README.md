@@ -1,131 +1,173 @@
 <div align="center">
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E0F2FE,35:DBEAFE,70:EDE9FE,100:F5F3FF&text=Amir%20Beigi&fontColor=1E293B&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,25:312E81,50:7C3AED,75:0EA5E9,100:020617&text=AMIR%20BEIGI&fontColor=FFFFFF&fontSize=72&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Architecture%20Driven%20Builder&descAlignY=58&descSize=19&animation=twinkling" 
   width="100%" 
-  alt="Soft animated header" 
+  alt="Animated header" 
 />
 
 <br>
 
-<a href="mailto:amirbeigicontact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/amir-beigi-code/">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Amir-beigi-84">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Amir-beigi-84&style=for-the-badge&color=8B5CF6&label=Views" alt="Profile views" />
-
-<br><br>
-
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=334155&center=true&vCenter=true&width=900&lines=I+build+software+with+clarity%2C+structure%2C+and+purpose;Clean+architecture+over+temporary+shortcuts;Any+stack.+Same+engineering+mindset.;Scalable+systems.+Maintainable+code.+Better+developer+experience." 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=I+build+systems+that+feel+fast%2C+clean%2C+and+alive.;Architecture+first.+Stack+second.;Any+technology.+Same+engineering+mindset.;Clean+code.+Scalable+systems.+Sharp+execution.;Welcome+to+my+engineering+space." 
   alt="Typing animation" 
 />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:E0F2FE,50:8B5CF6,100:DBEAFE" width="75%" alt="Divider" />
+<a href="mailto:amirbeigicontact@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/amir-beigi-code/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Amir-beigi-84">
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Amir-beigi-84&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS" alt="Profile views" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:8B5CF6,100:EC4899" width="82%" alt="Divider" />
 
 </div>
 
 <br>
 
-## About Me
-
-I am a software engineer who enjoys building systems that are clean, practical, scalable, and easy to maintain.
-
-I do not define myself by a single technology stack.  
-For me, languages and frameworks are tools — the real goal is solving problems with strong engineering principles, clear architecture, and long-term thinking.
-
-<br>
-
-<div align="center">
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=7C3AED&vCenter=true&repeat=false&width=320&lines=SYSTEM+PROFILE" alt="System Profile" />
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Engineering Focus</h3>
-      <p align="center">
-        Clean architecture, scalable systems, readable code, reliable foundations, and thoughtful developer experience.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">How I Work</h3>
-      <p align="center">
-        I choose the right tool for the problem, keep systems simple, design boundaries early, and build for change.
-      </p>
-    </td>
-  </tr>
-</table>
+    <td width="60%" valign="top">
 
-</div>
+### Who I Am
 
----
+I am a software engineer who builds with **clarity, structure, and long-term thinking**.
 
-## Principles
+I do not attach my identity to one stack.  
+Technologies change. Tools evolve. Frameworks come and go.
 
-<div align="center">
+The real craft is understanding problems deeply, designing strong foundations, and building systems that can grow without collapsing under their own complexity.
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>Clarity</h3>
-      <p>Readable, explainable, and easy-to-reason-about code.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Structure</h3>
-      <p>Architecture that creates freedom instead of friction.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Quality</h3>
-      <p>Reliable software foundations over temporary shortcuts.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>Adaptability</h3>
-      <p>The stack can change. The engineering mindset stays.</p>
-    </td>
-  </tr>
-</table>
+</td>
+<td width="40%" valign="top">
 
-</div>
-
----
-
-## Current Direction
+### Operating Mode
 
 ```txt
-Building       software with clean structure and practical value
-Improving      architecture, reliability, performance, and developer experience
-Exploring      different stacks, patterns, tools, and system designs
-Principle      technology changes, fundamentals remain
+Role          Software Engineer
+Mindset       Architecture-driven
+Focus         Clean systems
+Style         Practical, sharp, adaptable
+Stack         Whatever solves the problem best
+Status        Always learning, always building
+```
+
+</td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=38BDF8&vCenter=true&repeat=false&width=360&lines=ENGINEERING+DNA" alt="Engineering DNA" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/CLARITY-020617?style=for-the-badge&labelColor=38BDF8&color=020617" />
+      <br><br>
+      <sub>Readable code, clean boundaries, simple mental models.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/STRUCTURE-020617?style=for-the-badge&labelColor=8B5CF6&color=020617" />
+      <br><br>
+      <sub>Architecture that keeps systems flexible as they grow.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/PERFORMANCE-020617?style=for-the-badge&labelColor=EC4899&color=020617" />
+      <br><br>
+      <sub>Fast enough to feel natural. Stable enough to trust.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/ADAPTABILITY-020617?style=for-the-badge&labelColor=22C55E&color=020617" />
+      <br><br>
+      <sub>Any stack. Any ecosystem. Same engineering discipline.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=EC4899&vCenter=true&repeat=false&width=420&lines=BUILD+PHILOSOPHY" alt="Build Philosophy" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Design Before Motion</h3>
+      <p>
+        I prefer understanding the system before touching the keyboard.
+        The best code usually starts before the first line is written.
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Simple Until Proven Otherwise</h3>
+      <p>
+        Complexity is expensive.
+        I like systems that stay understandable even after they scale.
+      </p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Tools Serve the Mission</h3>
+      <p>
+        I do not worship stacks.
+        I use whatever helps build the cleanest, strongest solution.
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=8B5CF6&vCenter=true&repeat=false&width=360&lines=CURRENT+VECTOR" alt="Current Vector" />
+
+```txt
+Building        software with strong foundations and practical value
+Improving       architecture, reliability, performance, and developer experience
+Exploring       systems, patterns, tools, interfaces, and new ecosystems
+Avoiding        overengineering, messy abstractions, and stack tunnel vision
+Principle       technology changes, engineering fundamentals remain
 ```
 
 ---
 
-## GitHub Overview
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=38BDF8&vCenter=true&repeat=false&width=420&lines=LIVE+TELEMETRY" alt="Live Telemetry" />
 
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=334155&text_color=475569&icon_color=8B5CF6" 
-  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=EC4899&border_radius=18" 
+  height="180" 
   alt="GitHub stats" 
 />
 
 <img 
-  src="https://streak-stats.demolab.com?user=Amir-beigi-84&hide_border=true&background=FFFFFF00&ring=8B5CF6&fire=F97316&currStreakLabel=334155&sideLabels=475569&currStreakNum=8B5CF6&sideNums=6366F1&dates=64748B&stroke=E2E8F0" 
-  height="170" 
+  src="https://streak-stats.demolab.com?user=Amir-beigi-84&hide_border=true&background=020617&ring=38BDF8&fire=EC4899&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&stroke=334155&border_radius=18" 
+  height="180" 
   alt="GitHub streak" 
 />
 
 <br><br>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&theme=github-compact&hide_border=true&area=true&radius=16" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&bg_color=020617&color=CBD5E1&line=38BDF8&point=EC4899&area=true&area_color=7C3AED&hide_border=true&radius=18" 
   width="100%" 
   alt="GitHub activity graph" 
 />
@@ -134,26 +176,26 @@ Principle      technology changes, fundamentals remain
 
 ---
 
-## Contribution Dashboard
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=22C55E&vCenter=true&repeat=false&width=520&lines=CONTRIBUTION+COMMAND+CENTER" alt="Contribution Command Center" />
 
 <div align="center">
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-beigi-84&theme=github" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-beigi-84&theme=tokyonight" 
   width="100%" 
-  alt="Contribution details" 
+  alt="Profile contribution details" 
 />
 
-<br>
+<br><br>
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-beigi-84&theme=github" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-beigi-84&theme=tokyonight" 
   width="49%" 
   alt="GitHub summary stats" 
 />
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amir-beigi-84&theme=github&utcOffset=3" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amir-beigi-84&theme=tokyonight&utcOffset=3" 
   width="49%" 
   alt="Productive time" 
 />
@@ -162,12 +204,12 @@ Principle      technology changes, fundamentals remain
 
 ---
 
-## Achievements
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=FACC15&vCenter=true&repeat=false&width=360&lines=ACHIEVEMENTS" alt="Achievements" />
 
 <div align="center">
 
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=Amir-beigi-84&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" 
+  src="https://github-profile-trophy.vercel.app/?username=Amir-beigi-84&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" 
   width="100%" 
   alt="GitHub trophies" 
 />
@@ -176,7 +218,20 @@ Principle      technology changes, fundamentals remain
 
 ---
 
-## Beyond the Code
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=EC4899&vCenter=true&repeat=false&width=360&lines=RANDOM+SIGNAL" alt="Random Signal" />
+
+<div align="center">
+
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+  alt="Random developer quote" 
+/>
+
+</div>
+
+---
+
+## <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1&pause=1000&color=38BDF8&vCenter=true&repeat=false&width=360&lines=BEYOND+CODE" alt="Beyond Code" />
 
 <div align="center">
 
@@ -184,15 +239,15 @@ Principle      technology changes, fundamentals remain
   <tr>
     <td align="center" width="33%">
       <h3>Systems</h3>
-      <p>I like thinking about how parts connect, communicate, and evolve over time.</p>
+      <p>I like understanding how pieces connect, communicate, fail, recover, and evolve.</p>
     </td>
     <td align="center" width="33%">
       <h3>Design</h3>
-      <p>I care about the experience, not only the implementation behind it.</p>
+      <p>I care about how software feels, not only how it works internally.</p>
     </td>
     <td align="center" width="33%">
       <h3>Growth</h3>
-      <p>Every stack teaches a different way to solve problems.</p>
+      <p>Every ecosystem teaches a new way to think, build, and solve problems.</p>
     </td>
   </tr>
 </table>
@@ -201,33 +256,36 @@ Principle      technology changes, fundamentals remain
 
 ---
 
-## Connect
-
 <div align="center">
 
-I am interested in building useful products, improving developer workflows, and working on clean, scalable systems.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:EC4899,50:8B5CF6,100:38BDF8" width="82%" alt="Divider" />
 
 <br><br>
+
+## Connect With Me
+
+I am interested in building useful products, improving developer workflows, and creating systems that are clean, scalable, and enjoyable to work with.
+
+<br>
 
 <a href="mailto:amirbeigicontact@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <img src="https://img.shields.io/badge/EMAIL%20ME-020617?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EC4899" alt="Email me" />
 </a>
 <a href="https://www.linkedin.com/in/amir-beigi-code/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2563EB" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:E0F2FE,50:8B5CF6,100:DBEAFE" width="75%" alt="Divider" />
-
-<br><br>
-
-<sub>Clean systems. Thoughtful architecture. Better software.</sub>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3200&pause=1200&color=CBD5E1&center=true&vCenter=true&width=800&lines=Clean+systems.+Sharp+architecture.+Relentless+learning.;Thanks+for+visiting+my+engineering+space." 
+  alt="Footer typing animation" 
+/>
 
 </div>
 
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F5F3FF,35:EDE9FE,70:DBEAFE,100:E0F2FE" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:020617,25:0EA5E9,50:7C3AED,75:EC4899,100:020617&animation=twinkling" 
   width="100%" 
   alt="Footer" 
 />

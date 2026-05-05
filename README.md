@@ -1,27 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:6366F1,100:8B5CF6&text=Amir%20Beigi&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Systems&descAlignY=58&descSize=17" width="100%" alt="Header" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E0F2FE,35:DBEAFE,70:EDE9FE,100:F5F3FF&text=Amir%20Beigi&fontColor=1E293B&fontSize=62&fontAlignY=38&desc=Software%20Engineer%20%7C%20Clean%20Architecture%20%7C%20Scalable%20Systems&descAlignY=58&descSize=18&animation=fadeIn" 
+  width="100%" 
+  alt="Soft animated header" 
+/>
 
 <br>
 
 <a href="mailto:amirbeigicontact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/amir-beigi-code/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Amir-beigi-84">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Amir-beigi-84&style=for-the-badge&color=6366F1&label=Profile%20Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Amir-beigi-84&style=for-the-badge&color=8B5CF6&label=Views" alt="Profile views" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Building+software+with+clarity+and+purpose;Clean+architecture+over+temporary+shortcuts;Any+stack%2C+same+engineering+mindset;Scalable+systems%2C+maintainable+code%2C+better+DX" alt="Typing intro" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=2800&pause=900&color=334155&center=true&vCenter=true&width=900&lines=I+build+software+with+clarity%2C+structure%2C+and+purpose;Clean+architecture+over+temporary+shortcuts;Any+stack.+Same+engineering+mindset.;Scalable+systems.+Maintainable+code.+Better+developer+experience." 
+  alt="Typing animation" 
+/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:E0F2FE,50:8B5CF6,100:DBEAFE" width="75%" alt="Divider" />
 
 </div>
 
----
+<br>
 
 ## About Me
 
@@ -32,34 +43,30 @@ For me, languages and frameworks are tools — the real goal is solving problems
 
 <br>
 
+<div align="center">
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Engineering Focus</h3>
-      <ul>
-        <li>Clean architecture</li>
-        <li>Scalable system design</li>
-        <li>Readable and maintainable code</li>
-        <li>Reliable software foundations</li>
-        <li>Developer experience and workflow quality</li>
-      </ul>
+      <h3 align="center">Engineering Focus</h3>
+      <p align="center">
+        Clean architecture, scalable systems, readable code, reliable foundations, and thoughtful developer experience.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>How I Think</h3>
-      <ul>
-        <li>Choose the right tool for the problem</li>
-        <li>Keep systems simple before making them complex</li>
-        <li>Design boundaries before implementation</li>
-        <li>Build for change, not just for launch</li>
-        <li>Learn continuously across ecosystems</li>
-      </ul>
+      <h3 align="center">How I Work</h3>
+      <p align="center">
+        I choose the right tool for the problem, keep systems simple, design boundaries early, and build for change.
+      </p>
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-## Engineering Principles
+## Principles
 
 <div align="center">
 
@@ -67,15 +74,15 @@ For me, languages and frameworks are tools — the real goal is solving problems
   <tr>
     <td align="center" width="25%">
       <h3>Clarity</h3>
-      <p>Code should be readable, explainable, and easy to reason about.</p>
+      <p>Readable, explainable, and easy-to-reason-about code.</p>
     </td>
     <td align="center" width="25%">
       <h3>Structure</h3>
-      <p>Good architecture creates freedom instead of friction.</p>
+      <p>Architecture that creates freedom instead of friction.</p>
     </td>
     <td align="center" width="25%">
-      <h3>Performance</h3>
-      <p>Speed matters when it improves trust and experience.</p>
+      <h3>Quality</h3>
+      <p>Reliable software foundations over temporary shortcuts.</p>
     </td>
     <td align="center" width="25%">
       <h3>Adaptability</h3>
@@ -99,36 +106,57 @@ Principle      technology changes, fundamentals remain
 
 ---
 
-## GitHub Analytics
+## GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=2563EB&text_color=334155&icon_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-beigi-84&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff00&title_color=2563EB&text_color=334155" alt="Top languages" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Amir-beigi-84&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=334155&text_color=475569&icon_color=8B5CF6" 
+  height="170" 
+  alt="GitHub stats" 
+/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Amir-beigi-84&hide_border=true&background=FFFFFF00&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&currStreakNum=7C3AED&sideNums=7C3AED&dates=64748B&stroke=E2E8F0" width="60%" alt="GitHub streak" />
+<img 
+  src="https://streak-stats.demolab.com?user=Amir-beigi-84&hide_border=true&background=FFFFFF00&ring=8B5CF6&fire=F97316&currStreakLabel=334155&sideLabels=475569&currStreakNum=8B5CF6&sideNums=6366F1&dates=64748B&stroke=E2E8F0" 
+  height="170" 
+  alt="GitHub streak" 
+/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&theme=github-compact&hide_border=true&area=true&radius=14" width="100%" alt="GitHub activity graph" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-beigi-84&theme=github-compact&hide_border=true&area=true&radius=16" 
+  width="100%" 
+  alt="GitHub activity graph" 
+/>
 
 </div>
 
 ---
 
-## Contribution Overview
+## Contribution Dashboard
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-beigi-84&theme=github" width="100%" alt="Profile contribution details" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amir-beigi-84&theme=github" 
+  width="100%" 
+  alt="Contribution details" 
+/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amir-beigi-84&theme=github" width="32%" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amir-beigi-84&theme=github" width="32%" alt="Most committed languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amir-beigi-84&theme=github&utcOffset=3" width="32%" alt="Productive time" />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amir-beigi-84&theme=github" 
+  width="49%" 
+  alt="GitHub summary stats" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amir-beigi-84&theme=github&utcOffset=3" 
+  width="49%" 
+  alt="Productive time" 
+/>
 
 </div>
 
@@ -138,7 +166,11 @@ Principle      technology changes, fundamentals remain
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amir-beigi-84&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies" />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Amir-beigi-84&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" 
+  width="100%" 
+  alt="GitHub trophies" 
+/>
 
 </div>
 
@@ -160,7 +192,7 @@ Principle      technology changes, fundamentals remain
     </td>
     <td align="center" width="33%">
       <h3>Growth</h3>
-      <p>I keep learning because every stack teaches a different way to solve problems.</p>
+      <p>Every stack teaches a different way to solve problems.</p>
     </td>
   </tr>
 </table>
@@ -178,12 +210,24 @@ I am interested in building useful products, improving developer workflows, and 
 <br><br>
 
 <a href="mailto:amirbeigicontact@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  <img src="https://img.shields.io/badge/Email%20Me-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
 <a href="https://www.linkedin.com/in/amir-beigi-code/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:E0F2FE,50:8B5CF6,100:DBEAFE" width="75%" alt="Divider" />
+
+<br><br>
+
+<sub>Clean systems. Thoughtful architecture. Better software.</sub>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,50:6366F1,100:0EA5E9" width="100%" alt="Footer" />
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:F5F3FF,35:EDE9FE,70:DBEAFE,100:E0F2FE" 
+  width="100%" 
+  alt="Footer" 
+/>
